@@ -22,9 +22,9 @@ repository               : "T1meTeA/T1meTeA.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Zhc"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "I am a HNU Student"
   location         : "HaiNan"
   employer         : "Hai Nan University"
