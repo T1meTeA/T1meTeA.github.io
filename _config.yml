@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "T1meTeA / My WebPage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhc"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am a HNU Student"
+  location         : "HaiNan"
+  employer         : "Hai Nan University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "2813605114@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
